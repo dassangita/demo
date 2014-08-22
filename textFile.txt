@@ -1,0 +1,2 @@
+nxt session:
+branch merging and rebase
